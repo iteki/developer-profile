@@ -20,12 +20,12 @@ en: &DEFAULT_EN
     title: "About Me"
     text: "profile"
     body: |
-    Unity GameEngineer
-    Live in Tokyo
-    From China ShangHai
-    MBTI: ENTJ
-    FavoriteMusicGenre: R＆B, Jazz
-    Language: Chinese > Japanese > English
+      Unity GameEngineer
+      Live in Tokyo
+      From China ShangHai
+      MBTI: ENTJ
+      FavoriteMusicGenre: R＆B, Jazz
+      Language: Chinese > Japanese > English
     section: about
 
   services:
