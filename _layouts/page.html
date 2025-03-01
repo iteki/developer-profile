@@ -1,14 +1,21 @@
 ---
 layout: default
 ---
+
+<!-- Include Navigation -->
 {% include nav.html %}
 
+<!-- Background Color Logic -->
 {% if page.background == "grey" or page.background == "gray" %}
 <script>
-document.getElementById("page-top").className="bg-light";
+  document.getElementById("page-top").className = "bg-light";
 </script>
 {% endif %}
 
+<!-- Page Content -->
 <div class="container" id="pagecontainer">
-{{ content }}
+  {{ content }}
 </div>
+
+<!-- Include Footer -->
+{% include footer.html %}
