@@ -237,16 +237,16 @@ es: &DEFAULT_ES
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "envato"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://www.google.com/
         logo: assets/img/clients/envato.jpg
       - title: "designmodo"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://www.google.com/
         logo: assets/img/clients/designmodo.jpg
       - title: "themeforest"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://www.google.com/
         logo: assets/img/clients/themeforest.jpg
       - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
+        url: https://www.google.com/
         logo: assets/img/clients/creative-market.jpg
 
   team:
