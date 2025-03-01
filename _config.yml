@@ -20,7 +20,7 @@ baseurl: "/iteki-blog" # the subpath of your site, e.g. /blog
 title      : "Iteki's Blog"  
 email      : idi0tang@gmail.com #this is also the email contact forms will go to
 description: "A place to share my thoughts and projects."
-author     : Iteki
+author     : "Iteki"
 # logo:     #optional, defaults to site title
   # path: assets\img\clients\creative-market.jpg
   # height: 60 #height in px, defaults to 52px
