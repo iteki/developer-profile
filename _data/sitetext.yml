@@ -22,9 +22,9 @@ en: &DEFAULT_EN
     body: |
       Unity GameEngineer\
       Live in Tokyo\
-      From China ShangHai\n\
-      MBTI: ENTJ\n\
-      FavoriteMusicGenre: R＆B, Jazz\n\
+      From China ShangHai\
+      MBTI: ENTJ\
+      FavoriteMusicGenre: R＆B, Jazz\
       Language: Chinese > Japanese > English
     section: about
 
