@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
+    title: "Welcome to Iteki's Blog!"
+    text: Nice To Meet You
     button: Tell Me More
     buttonlink: "#services"
 
