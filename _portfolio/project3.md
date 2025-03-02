@@ -10,6 +10,6 @@ caption:
   thumbnail: assets/img/portfolio/03-full.jpg
 ---
 
-![phone](assets/img/photo/p1.jpg "Phone1")  
-
-
+![phone1](assets/img/photo/p1.jpg "Phone1")
+![phone2](assets/img/photo/p2.jpg "Phone2")
+![phone3](assets/img/photo/p3.jpg "Phone3")
