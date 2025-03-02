@@ -84,11 +84,10 @@ en: &DEFAULT_EN
       - title: "THE JUSOU (呪巣 -怨ノ章)"
         year: "2023"
         desc: "THE JUSOU invites you to immerse yourself in an intense horror gaming experience right on your Android device. The premise revolves around an old, eerie house that piques curiosity as you pass by daily, drawing you into its mysterious history. Originally inhabited by a family more than a decade ago, the house now lies abandoned, stirring rumors and imaginations within the community. Despite warnings about its terrifying visuals and sound effects, if you are intrigued by spine-chilling narratives, this game promises to be unforgettable.\ [Visit the official website](https://www.metaware.group/)"
-        image: assets/img/timeline/5.jpg
+        image: assets/img/timeline/6.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Continue."
 
 
   clients:
