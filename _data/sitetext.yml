@@ -88,7 +88,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "To Be Continue!"
+    end: "Continue・・"
 
 
   clients:
