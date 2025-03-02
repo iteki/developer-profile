@@ -81,6 +81,11 @@ en: &DEFAULT_EN
         desc: "Debuting in October 1996, the Pokémon Trading Card Game is based on the world introduced in the Pokémon video game series. Players can collect cards featuring their favorite Pokémon characters, build powerful decks, and face off against opponents in strategic battles.This highly social game has been sold in 14 languages and has been played in 89 countries or regions.\ [Visit the official website](https://www.pokemontcgpocket.com/)"
         image: assets/img/timeline/5.jpg
         alt:
+        title: "THE JUSOU (呪巣 -怨ノ章)"
+        year: "2023"
+        desc: "THE JUSOU invites you to immerse yourself in an intense horror gaming experience right on your Android device. The premise revolves around an old, eerie house that piques curiosity as you pass by daily, drawing you into its mysterious history. Originally inhabited by a family more than a decade ago, the house now lies abandoned, stirring rumors and imaginations within the community. Despite warnings about its terrifying visuals and sound effects, if you are intrigued by spine-chilling narratives, this game promises to be unforgettable.\ [Visit the official website](https://store.steampowered.com/app/2380230)"
+        image: assets/img/timeline/5.jpg
+        alt:
         # you can enforce the alignment
         align: right
     end: "To Be Continue!"
