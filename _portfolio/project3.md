@@ -16,7 +16,7 @@ caption:
 </div>
 
 <div style="display: flex; justify-content: center; margin-top: 10px;">
-  <img src="assets/img/photo/p3.jpg" alt="Phone3" title="Phone3" style="width: 40%; height: 250px; object-fit: cover;">
+  <img src="assets/img/photo/p3.jpg" alt="Phone3" title="Phone3" style="width: 40%; height: 500px; object-fit: cover;">
 </div>
 
 
