@@ -11,12 +11,12 @@ caption:
 ---
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="assets/img/photo/p1.jpg" alt="Phone1" title="Phone1" style="width: 40%;">
-  <img src="assets/img/photo/p2.jpg" alt="Phone2" title="Phone2" style="width: 40%;">
+  <img src="assets/img/photo/p1.jpg" alt="Phone1" title="Phone1" style="width: 532px; height: 640px;">
+  <img src="assets/img/photo/p2.jpg" alt="Phone2" title="Phone2" style="width: 532px; height: 640px;">
 </div>
 
 <div style="display: flex; justify-content: center; margin-top: 10px;">
-  <img src="assets/img/photo/p3.jpg" alt="Phone3" title="Phone3" style="width: 40%; height: 500px; object-fit: cover;">
+  <img src="assets/img/photo/p3.jpg" alt="Phone3" title="Phone3" style="width: 640px; height: 480px; object-fit: cover;">
 </div>
 
 
