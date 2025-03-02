@@ -67,18 +67,24 @@ en: &DEFAULT_EN
         image: assets/img/timeline/2.jpg
         alt:
       - title: "ASTER TATARIQUS (アスタータタリクス) gumiGames"
-        year: "2022-2024"
+        year: "2022-2023"
         desc: "Aster Tatariqus is a full-fledged simulation RPG set in a medieval fantasy world based on the Arthurian Legend. From the time of its release, all routes and endings have been implemented, making it one of the most voluminous games in smartphone history. The dramatic story unfolds in various ways, with different endings prepared depending on the player's choices.\ [Visit the official website](https://at.fg-games.co.jp/)"
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "ProjectSekai (プロセカ) ColorfulPaletteGames"
-        year: "2024-2025"
+        year: "2023-2024"
         desc: "Project SEKAI COLORFUL STAGE! feat. Hatsune Miku (also known as Project SEKAI or Proseka) is a rhythm game developed as a collaboration between SEGA, Craft Egg, Colorful Palette, and Crypton Future Media. The game was first released in Japan on September 30, 2020 for iOS and Android devices.\ [Visit the official website](https://pjsekai.sega.jp/)"
+        image: assets/img/timeline/4.jpg
+        alt:
+      - title: "Pokémon Trading Card Game Pocket (ポケポケ)"
+        year: "2024-?"
+        desc: "Debuting in October 1996, the Pokémon Trading Card Game is based on the world introduced in the Pokémon video game series. Players can collect cards featuring their favorite Pokémon characters, build powerful decks, and face off against opponents in strategic battles.This highly social game has been sold in 14 languages and has been played in 89 countries or regions\ [Visit the official website](https://www.pokemontcgpocket.com/)"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "To Be Continue!"
+
 
   clients:
     section: clients
