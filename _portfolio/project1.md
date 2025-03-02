@@ -4,7 +4,7 @@ subtitle: my favorite music genre.
 image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
-caption:  
+caption:
   title: Music
   subtitle: smoothjazz
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
