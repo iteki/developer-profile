@@ -17,10 +17,10 @@ The term itself seems to have been birthed directly out of radio marketing effor
 
 The popularity of smooth jazz as a radio format grew in the 80s and 90s, but gradually declined in the early 2000s. By 2009, many stations including in NYC, Washington, DC, and Boston had switched away from the format.
 
-“Smooth jazz” was by far the dominant market force in jazz at the end of the century, and it sidetracked the artistic lives of some musicians who might have made more interesting music but for the draw of big paydays. But the radio stations playing sax-and-synth dominated lite funk faded in the first decade of the 21st century.\
+“Smooth jazz” was by far the dominant market force in jazz at the end of the century, and it sidetracked the artistic lives of some musicians who might have made more interesting music but for the draw of big paydays. But the radio stations playing sax-and-synth dominated lite funk faded in the first decade of the 21st century.
 
 
-[Visit the SmoothJazz Radio Channel](https://www.radiotunes.com/smoothjazz)        
+**[Visit the SmoothJazz Radio Channel](https://www.radiotunes.com/smoothjazz)**{: style="font-size: 1.1em;"}     
 
 
 
