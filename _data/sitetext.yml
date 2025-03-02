@@ -89,7 +89,7 @@ en: &DEFAULT_EN
       - title: "To be Continue."
         year: ""
         desc: ""
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/7.jpg
         alt:
         # you can enforce the alignment
         align: right
