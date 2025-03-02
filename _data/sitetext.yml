@@ -79,7 +79,7 @@ en: &DEFAULT_EN
       - title: "Pokémon Trading Card Game Pocket (ポケポケ)"
         year: "2024-?"
         desc: "Debuting in October 1996, the Pokémon Trading Card Game is based on the world introduced in the Pokémon video game series. Players can collect cards featuring their favorite Pokémon characters, build powerful decks, and face off against opponents in strategic battles.This highly social game has been sold in 14 languages and has been played in 89 countries or regions\ [Visit the official website](https://www.pokemontcgpocket.com/)"
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/5.jpg
         alt:
         # you can enforce the alignment
         align: right
