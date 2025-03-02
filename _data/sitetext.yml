@@ -46,8 +46,8 @@ en: &DEFAULT_EN
         #icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Favourite"
+    text: "Share my interests."
     section: portfolio
     closebutton: "Close Project"
 
