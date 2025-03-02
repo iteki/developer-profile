@@ -71,6 +71,11 @@ en: &DEFAULT_EN
         desc: "Aster Tatariqus is a full-fledged simulation RPG set in a medieval fantasy world based on the Arthurian Legend. From the time of its release, all routes and endings have been implemented, making it one of the most voluminous games in smartphone history. The dramatic story unfolds in various ways, with different endings prepared depending on the player's choices.\ [Visit the official website](https://at.fg-games.co.jp/)"
         image: assets/img/timeline/3.jpg
         alt: image alt text
+      - title: "THE JUSOU (呪巣 -怨ノ章)"
+        year: "2023"
+        desc: "THE JUSOU invites you to immerse yourself in an intense horror gaming experience right on your Android device. The premise revolves around an old, eerie house that piques curiosity as you pass by daily, drawing you into its mysterious history. Originally inhabited by a family more than a decade ago, the house now lies abandoned, stirring rumors and imaginations within the community. Despite warnings about its terrifying visuals and sound effects, if you are intrigued by spine-chilling narratives, this game promises to be unforgettable.\ [Visit the official website](https://www.metaware.group/)"
+        image: assets/img/timeline/6.jpg
+        alt:
       - title: "ProjectSekai (プロセカ) ColorfulPaletteGames"
         year: "2023-2024"
         desc: "Project SEKAI COLORFUL STAGE! feat. Hatsune Miku (also known as Project SEKAI or Proseka) is a rhythm game developed as a collaboration between SEGA, Craft Egg, Colorful Palette, and Crypton Future Media. The game was first released in Japan on September 30, 2020 for iOS and Android devices.\ [Visit the official website](https://pjsekai.sega.jp/)"
@@ -80,11 +85,6 @@ en: &DEFAULT_EN
         year: "2024-?"
         desc: "Debuting in October 1996, the Pokémon Trading Card Game is based on the world introduced in the Pokémon video game series. Players can collect cards featuring their favorite Pokémon characters, build powerful decks, and face off against opponents in strategic battles.This highly social game has been sold in 14 languages and has been played in 89 countries or regions.\ [Visit the official website](https://www.pokemontcgpocket.com/)"
         image: assets/img/timeline/5.jpg
-        alt:
-      - title: "THE JUSOU (呪巣 -怨ノ章)"
-        year: "2023"
-        desc: "THE JUSOU invites you to immerse yourself in an intense horror gaming experience right on your Android device. The premise revolves around an old, eerie house that piques curiosity as you pass by daily, drawing you into its mysterious history. Originally inhabited by a family more than a decade ago, the house now lies abandoned, stirring rumors and imaginations within the community. Despite warnings about its terrifying visuals and sound effects, if you are intrigued by spine-chilling narratives, this game promises to be unforgettable.\ [Visit the official website](https://www.metaware.group/)"
-        image: assets/img/timeline/6.jpg
         alt:
         # you can enforce the alignment
         align: right
