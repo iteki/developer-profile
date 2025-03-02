@@ -4,9 +4,9 @@ subtitle: my favorite music genre.
 image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
-caption:
-  title: Threads
-  subtitle: Illustration
+caption:  
+  title: Music
+  subtitle: smoothjazz
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
 Smooth jazz may be thought of as commercially-oriented, crossover jazz which came to prominence in the 1980s, displacing the more venturesome jazz fusion from which it emerged. It avoids the improvisational "risk-taking" of jazz fusion, emphasizing melodic form, and much of the music was initially "a combination of jazz with easy-listening pop music and lightweight R&B."
