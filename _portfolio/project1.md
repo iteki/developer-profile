@@ -1,5 +1,5 @@
 ---
-title: Favourite Music Radio Channel  
+title: Favourite Music Radio Channel
 subtitle: my favorite music genre.
 image: assets/img/portfolio/01-full.jpg
 alt: SmoothJazz Image
