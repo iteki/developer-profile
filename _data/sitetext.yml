@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: "Welcome to Iteki's Blog!"
+    title: "Welcome to Iteki's Developer Profile"
     text: Nice To Meet You
-    button: Check My Blog
+    button: Check
     buttonlink: "https://www.google.com/"
 
   about:
