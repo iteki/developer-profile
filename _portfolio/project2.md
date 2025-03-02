@@ -1,18 +1,23 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
+title: Favourite Game
+subtitle: my favorite game.
 image: assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+alt: Game Image  
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: assets/img/portfolio/02-thumbnail.jpg
+  title: Game
+  subtitle: favourite game
+  thumbnail: assets/img/portfolio/02-full.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
-
-{:.list-inline}
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
-
+Vrchat
+The Legend of Zelda
+Red Dead Redemption 2
+GTA5
+Euro Truck Simulator 2
+Grand Theft Auto V
+Watch_Dogs 2
+DJMAX RESPECT V
+Diablo II
+石器时代
+魔力宝贝
+仙剑奇侠传
