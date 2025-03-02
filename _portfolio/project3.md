@@ -10,6 +10,9 @@ caption:
   thumbnail: assets/img/portfolio/03-full.jpg
 ---
 
-![phone1](assets/img/photo/p1.jpg "Phone1")
-![phone2](assets/img/photo/p2.jpg "Phone2")
-![phone3](assets/img/photo/p3.jpg "Phone3")
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="assets/img/photo/p1.jpg" alt="Phone1" title="Phone1" style="width: 30%;">
+  <img src="assets/img/photo/p2.jpg" alt="Phone2" title="Phone2" style="width: 30%;">
+  <img src="assets/img/photo/p3.jpg" alt="Phone3" title="Phone3" style="width: 30%;">
+</div>
+
