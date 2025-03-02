@@ -15,7 +15,7 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : "https://iteki.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-baseurl: "/iteki-blog" # the subpath of your site, e.g. /blog
+baseurl: "/developer-profile" # the subpath of your site, e.g. /blog
 
 title      : "Iteki's Developer Profile"
 email      : idi0tang@gmail.com #this is also the email contact forms will go to
