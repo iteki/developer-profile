@@ -10,6 +10,6 @@ caption:
   thumbnail: assets/img/portfolio/03-full.jpg
 ---
 
-![My Cat](assets/img/photo/p1.jpg "Phone1")  
+![phone](assets/img/photo/p1.jpg "Phone1")  
 
 
