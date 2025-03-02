@@ -20,7 +20,7 @@ The popularity of smooth jazz as a radio format grew in the 80s and 90s, but gra
 “Smooth jazz” was by far the dominant market force in jazz at the end of the century, and it sidetracked the artistic lives of some musicians who might have made more interesting music but for the draw of big paydays. But the radio stations playing sax-and-synth dominated lite funk faded in the first decade of the 21st century.
 
 
-**[Visit the SmoothJazz Radio Channel](https://www.radiotunes.com/smoothjazz)**{: style="font-size: 1.1em;"}     
+**[Visit the SmoothJazz Radio Channel](https://www.radiotunes.com/smoothjazz)** 
 
 
 
