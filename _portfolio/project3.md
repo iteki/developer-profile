@@ -6,10 +6,10 @@ alt: photo
 
 caption:
   title: Photograph
-  subtitle: favourite photo 
+  subtitle: favourite photo
   thumbnail: assets/img/portfolio/03-full.jpg
 ---
 
-![My Cat](assets/img/xxx/xxx.jpg "Phone1")  
+![My Cat](assets/img/photo/p1.jpg "Phone1")  
 
 
