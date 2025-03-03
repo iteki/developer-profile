@@ -95,6 +95,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
+    end: ""
 
   #clients:
     #section: clients
