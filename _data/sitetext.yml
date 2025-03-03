@@ -94,8 +94,8 @@ en: &DEFAULT_EN
         image: assets/img/timeline/7.jpg
         alt:
         # you can enforce the alignment
-        align: right
-    end: ""
+        align: left
+   # end: ""
 
   #clients:
     #section: clients
