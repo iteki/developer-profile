@@ -13,6 +13,7 @@
           <ul class="timeline">
       {%- assign align = site.data.sitetext[site.locale].timeline.start_align -%}
       {%- for event in site.data.sitetext[site.locale].timeline.events -%}
+	{%- if event.year and event.title and event.desc -%} <!-- 确保事件数据完整 -->
             {%- if align == "right" -%}
               {%- if event.align and event.align == "left" -%}
                 {%- assign align = "right" -%}
